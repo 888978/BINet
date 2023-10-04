@@ -12,3 +12,5 @@ https://drive.grand-challenge.org/
 https://cecas.clemson.edu/~ahoover/stare/probing/index.html
 
 https://blogs.kingston.ac.uk/retinal/chasedb1/
+# Results
+The results.zip folder contains the experimental results of our testing on the DRIVE, STARE, and CHASE_DB1 datasets.
